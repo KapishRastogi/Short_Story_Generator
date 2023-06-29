@@ -12,4 +12,4 @@ Link - https://platform.openai.com/account/api-keys
 
 The API key in the above code is disabled since i have uploaded it in github.
 
-If you are not able to use the API Key even after creating it then you need to make a new account, since free API keys is only avaible till 3 months after creation of your account.
+If you are not able to use the API Key even after creating it then you need to make a new OpenAI account, since free API keys is only avaible till 3 months after creation of your OpenAI account.
