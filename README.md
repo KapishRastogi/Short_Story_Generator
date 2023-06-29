@@ -4,3 +4,10 @@ The Generative AI Short Story Generator is an innovative project that utilizes o
 Open cmd and type the command - pip install pyaudio speechrecognition
 
 The above command will install librabries to convert speech to text.
+
+# OpenAI API Key
+Create your own OpenAI API Key and keep it safe 
+Link - https://platform.openai.com/account/api-keys
+The API key in the above code is disabled since i have uploaded it in github.
+
+If you are not able to use the API Key even after creating it then you need to make a new account, since free API keys is only avaible till 3 months after creation of your account.
